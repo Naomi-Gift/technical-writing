@@ -1,5 +1,5 @@
 # technical-writing-practice
-# 📚 Why Documentation Matters
+#  Why Documentation Matters
 
 **Documentation matters** because it is the backbone of **clarity, continuity, and collaboration** in almost any field especially in tech, education, science, and business.
 
@@ -7,7 +7,7 @@
 
 ---
 
-## ✅ 1. Knowledge Sharing
+## 1. Knowledge Sharing
 
 - Good documentation helps others (and your future self) understand your work.
 - It allows team members, collaborators, or new hires to get up to speed quickly.
